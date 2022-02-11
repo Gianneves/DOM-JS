@@ -1,2 +1,2 @@
 # DOM-JS
-Aprendendo sobre DOM, criando pagina com modo "dark"
+Aprendendo sobre DOM, criando página com modo "dark".
